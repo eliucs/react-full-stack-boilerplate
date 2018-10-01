@@ -3,7 +3,7 @@
 Boilerplate code for full stack React and Node web applications.
 
 Development features:
-- Webpack 4 builds
+- Webpack 4
 - Babel 7
 - ESLint configuration
 - Webpack Dev Server proxy
